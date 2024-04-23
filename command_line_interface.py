@@ -2,7 +2,7 @@ import argparse
 
 def main():
     print("Welcome to the Command-Line Calculator!")
-    print("Welcome to the Command-Line Calculator!")
+    
     print("Usage: python command_line_interface.py OPERATION NUMBERS")
     print("Example: python command_line_interface.py add 5 3 2")
     print("Supported operations: add, subtract, multiply, divide")
