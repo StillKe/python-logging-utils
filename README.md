@@ -11,7 +11,7 @@ Provides an example usage in the main part of the code.
 Installation (Aggregation)
 No installation is required. Simply download the data_aggregation.py file and run it using a Python interpreter.
 
-## Data Aggregation and Sorting Utility
+# Data Aggregation and Sorting Utility
 This Python script provides functionality for aggregating data from multiple sources and sorting it using various techniques.
 
 ## Usage
