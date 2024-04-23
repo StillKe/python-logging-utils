@@ -25,6 +25,44 @@ No installation is required. Simply download the data_aggregation_and_sorting.py
 Data Aggregation and Sorting Utility
 This Python script provides functionality for aggregating data from multiple sources and sorting it using various techniques.
 
+# Command-Line Calculator
+Welcome to the Command-Line Calculator! This simple calculator allows you to perform basic mathematical operations from the command line.
+
+## Usage
+To use the calculator, follow these steps:
+
+Open your terminal or command prompt.
+Navigate to the directory containing the command_line_interface.py file.
+Run the script using the following command format:
+
+python command_line_interface.py OPERATION NUMBERS
+Replace OPERATION with the desired mathematical operation (add, subtract, multiply, divide) and NUMBERS with the numbers you want to perform the operation on. Separate each number with a space.
+
+For example, to add the numbers 5, 3, and 2, you would run:
+
+
+python command_line_interface.py add 5 3 2
+## Supported Operations
+The calculator supports the following mathematical operations:
+
+Addition (add)
+Subtraction (subtract)
+Multiplication (multiply)
+Division (divide)
+## Example
+Here's an example of how to use the calculator:
+
+
+python command_line_interface.py subtract 10 5 3
+This command will subtract 5 and 3 from 10 and display the result.
+
+## Notes
+The calculator accepts both integer and floating-point numbers as input.
+If an operation requires more than two numbers (e.g., subtraction), provide all the numbers separated by spaces.
+If you encounter any issues or errors, please check your input and try again.
+Enjoy calculating!
+
+
 ## You can install Python Logging Utils using pip:
 
 ```sh
