@@ -12,16 +12,16 @@ To use Python Logging Utils in your Python code, simply import the log_message f
 
 from logging_utils import log_message
 
-# Log debug messages
+## Log debug messages
 log_message(1, "This is a debug message", "Another debug message")
 
-# Log warning message
+## Log warning message
 log_message(3, "Warning: Something unexpected happened")
 
-# Log error message
+## Log error message
 log_message(4, "Error: An error occurred while processing data")
 
-# Data Aggregation Utility
+## Data Aggregation Utility
 This Python utility provides functions for aggregating data from multiple sources. It allows users to input data from the command line prompt, handles invalid input gracefully, aggregates the data from multiple sources, and prints the aggregated data.
 
 ## Features
@@ -32,7 +32,7 @@ Provides an example usage in the main part of the code.
 ## Installation
 No installation is required. Simply download the data_aggregation.py file and run it using a Python interpreter.
 
-# Data Aggregation and Sorting Utility
+## Data Aggregation and Sorting Utility
 This Python script provides functionality for aggregating data from multiple sources and sorting it using various techniques.
 
 ## Features
@@ -47,12 +47,6 @@ No installation is required. Simply download the data_aggregation_and_sorting.py
 # Python Logging Utils
 
 Python Logging Utils is a collection of utility functions for logging in Python applications. It provides functions to log multiple messages with different levels of severity in a single function call.
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-
-ng data from multiple sources. It allows users to input data from the command line prompt, handles invalid input gracefully, aggregates the data from multiple sources, and prints the aggregated data.
 
 ## Features
 Accepts data from multiple sources provided by the user.
