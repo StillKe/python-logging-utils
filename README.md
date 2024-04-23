@@ -25,16 +25,6 @@ No installation is required. Simply download the data_aggregation_and_sorting.py
 Data Aggregation and Sorting Utility
 This Python script provides functionality for aggregating data from multiple sources and sorting it using various techniques.
 
-## Usage
-Features (Aggregation Sorting)
-Aggregate data from multiple sources.
-Sort the aggregated data using different sorting techniques: bubble sort, selection sort, insertion sort, quick sort, merge sort.
-Users can input data sources and specify the sorting technique from the command line prompt.
-Error handling for invalid input.
-
-## Installation (Aggregation Sorting)
-No installation is required. Simply download the data_aggregation_and_sorting.py file and run it using a Python interpreter.
-
 ## You can install Python Logging Utils using pip:
 
 ```sh
